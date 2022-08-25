@@ -1,2 +1,2 @@
-# CaRCC-Logistics-Sandbox
+# CaRCC-Sandbox
 Testing access and use of GitHub
